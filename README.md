@@ -71,7 +71,7 @@ The case studies include what did not work — the clustering-only version of Di
 
 ### Note on this profile
 
-Most of my work lives in private repositories, so the contribution graph understates the real volume — the [case studies](https://marcusnavarrogabrich.com/projects/) are where the work is actually documented. Aggregate engineering telemetry — tokens processed, calls made, latency — is published at [activity](https://marcusnavarrogabrich.com/activity/). What I deliberately do not publish: hardware, network topology and infrastructure details.
+**3,683 commits in the last 365 days across public and private repositories (244 active days)** — measured at build time from every active working tree, not just what GitHub's public graph shows. Most of my work lives in private repositories, so the public contribution graph understates the real volume — the [case studies](https://marcusnavarrogabrich.com/projects/) are where the work is actually documented, and the contribution graph on this site renders the public + private aggregate. Aggregate engineering telemetry — tokens processed, calls made, latency — is published at [activity](https://marcusnavarrogabrich.com/activity/). What I deliberately do not publish: hardware, network topology and infrastructure details.
 
 ---
 
